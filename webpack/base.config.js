@@ -8,8 +8,7 @@ module.exports = {
     app: path.resolve(__dirname, '../src/index.js')
   },
   output: {
-    path: path.resolve(__dirname, '../build'),
-    publicPath: '/'
+    path: path.resolve(__dirname, '../build')
   },
   module: {
     rules: [
