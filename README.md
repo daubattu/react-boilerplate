@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/daubattu/react-boilerplate.svg?branch=master)](https://travis-ci.org/daubattu/react-boilerplate)
+
 # React boilerplate
 
 > This is a boilerplate project using the following technologies:
