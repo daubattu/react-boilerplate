@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+import App from '@components/App';
+import '@css/styles.css';
+
 ReactDOM.render(
-  <h1>
-    Hello world!
-    { process.env.NODE_ENV }
-  </h1>,
+  <App />,
   document.getElementById('root'),
 );
