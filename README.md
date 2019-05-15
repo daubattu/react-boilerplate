@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/daubattu/react-boilerplate.svg?branch=master)](https://travis-ci.org/daubattu/react-boilerplate)
+[![Build Status](https://travis-ci.org/daubattu/react-boilerplate.svg?branch=master)](https://travis-ci.org/daubattu/react-boilerplate) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/daubattu/react-boilerplate/blob/master/LICENSE)
 
 # React boilerplate
 
